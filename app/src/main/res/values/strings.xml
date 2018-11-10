@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Create a classroom</string>
+    <string name="classroom_information">Classroom information:</string>
+    <string name="type_in_classroom_name_here">Type in classroom name here</string>
+    <string name="start_date">Start date (Month / Day / Year)</string>
+    <string name="end_date">End date (Month / Day / Year)</string>
+    <string name="type_in_a_classroom_name_here">Type in a classroom name here</string>
+    <string name="first_string_app_name">First @string/app_name</string>
+    <string name="student_roster">Student Roster</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string-array name = "months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="years">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+    </string-array>
+    <string-array name="day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
